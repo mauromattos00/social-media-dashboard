@@ -25,7 +25,9 @@
     "stylelint-config-hudochenkov": "^5.0.0",
     "stylelint-config-sass-guidelines": "^7.0.0",
     "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0"
+    "stylelint-scss": "^3.18.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   },
   "husky": {
     "hooks": {
